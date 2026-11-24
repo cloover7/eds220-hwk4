@@ -21,6 +21,8 @@ This project uses 3 datasets. Two are fire perimeter shapefiles from CAL FIRE. T
 
 ## References
 
+[EDS 220 Assignment 4](https://meds-eds-220.github.io/MEDS-eds-220-course/assignments/assignment4-palisades-eaton-fires.html)
+
 Los Angeles County. (2025). Palisades and Eaton dissolved fire perimeters (2025) [GIS dataset]. Los Angeles County Enterprise GIS. https://egis-lacounty.hub.arcgis.com/datasets/lacounty::palisades-and-eaton-dissolved-fire-perimeters-2025
 
 Microsoft. (n.d.). Landsat Collection 2 Level-2. Microsoft Planetary Computer. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
